@@ -28,4 +28,5 @@ service httpd restart
 
 
 
-
+sudo -u vagrant wget -q https://raw.githubusercontent.com/spanosg/lamp/master/files/index.html
+sudo -u vagrant wget -q https://raw.githubusercontent.com/spanosg/lamp/master/files/info.php
